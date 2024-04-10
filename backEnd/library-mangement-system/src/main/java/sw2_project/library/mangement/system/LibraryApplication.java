@@ -1,4 +1,4 @@
-package com.se_task.library.mangement.system;
+package sw2_project.library.mangement.system;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
